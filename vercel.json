@@ -1,7 +1,7 @@
 {
   "functions": {
     "**/*.php": {
-      "runtime": "vercel-community/php@0.0.10"
+      "runtime": "@vercel-community/php@0.0.8"
     }
   }
 }
